@@ -3,7 +3,7 @@ package com.springRESTful.constraints;
 import org.springframework.stereotype.Component;
 
 /**
- * REST Architectural Constraints
+ * REST Architectural Constraints (Hint: UCSC-LC)
  * 
  * It is an architecture style for designing loosely coupled applications over
  * HTTP, that is often used in the development of web services. REST does not
